@@ -1,3 +1,4 @@
-Notes for past Computer Science Projects
-
-The two connect four files must be in the same folder when run, the UseConnectFour file is what runs the actual game
+Notes for Computer Science Projects
+-All java files were run in JGRASP
+-The two connect four files must be in the same folder when run, the UseConnectFour file is what runs the actual game
+-Two
